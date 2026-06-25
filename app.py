@@ -31,12 +31,12 @@ _DEFAULT_API_KEY = "AIzaSyDCi6MWaSS8DXDWUpFBks8SDp41JRFy_SQ"
 # NewsAPI key
 _NEWS_API_KEY    = "bddd5a0c0b904e7cbfc0221f0e92f71c"
 # OpenAI API key
-_OPENAI_API_KEY  = "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"
+_OPENAI_API_KEY  = "use your api key"
 
 GEMINI_V2_URL  = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 GEMINI_V1_URL  = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 FACT_CHECK_URL = "https://factchecktools.googleapis.com/v1alpha1/claims:search"
-NEWS_API_URL   = "https://newsapi.org/v2/everything"
+NEWS_API_URL   = "your news api key"
 HF_API_URL     = "https://api-inference.huggingface.co/models/hamzab/roberta-fake-news-classification"
 
 # Domain keywords for reputable-source detection in NewsAPI results

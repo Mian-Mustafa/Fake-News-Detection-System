@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+joblib
+requests
+openai
+trafilatura
+beautifulsoup4
+lxml
+PyMuPDF
+python-docx
+pdfplumber
